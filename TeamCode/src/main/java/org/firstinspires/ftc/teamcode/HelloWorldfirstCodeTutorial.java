@@ -21,6 +21,6 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
        public void loop() {
        }
    }
-       //@teleOp for manual section of DS
-        //@autonomous for autonomous section of DS
-      // sonion ring
+             //@teleOp for manual section of DS
+             //@autonomous for autonomous section of DS
+             // sonion ring
