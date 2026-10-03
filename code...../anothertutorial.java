@@ -9,6 +9,8 @@ import qualcomm.robotcore.eventloop.opmode.Disabled;
 public class anothertutorial {
 
         @Override 
-        public void init()
+        public void init(){
+
+        }
     
 }
